@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094982090809",
+    "firebase_url": "https://giuaky-7042e.firebaseio.com",
+    "project_id": "giuaky-7042e",
+    "storage_bucket": "giuaky-7042e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094982090809:android:46df014960edcc6f",
+        "android_client_info": {
+          "package_name": "com.letrongmanh.letrongmanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094982090809-70iapo4qmsoavbfnjj6ast87l60lkeue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHUl_HaV5sQxn2s_zUSjIkKMaJ_Y5yQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
